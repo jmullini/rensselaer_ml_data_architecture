@@ -39,11 +39,12 @@
     <a href="https://github.com/jmullini/rensselaer_ml_data_architecture"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/jmullini/rensselaer_ml_data_architecture">View Demo</a>
+    <!--<a href="https://github.com/jmullini/rensselaer_ml_data_architecture">View Demo</a>
     ·
     <a href="https://github.com/jmullini/rensselaer_ml_data_architecture">Report Bug</a>
     ·
     <a href="https://github.com/jmullini/rensselaer_ml_data_architecture">Request Feature</a>
+  -->
   </p>
 </p>
 
@@ -60,19 +61,21 @@
         <li><a href="#milestone-2">Milestone 2</a></li>
         <li><a href="#milestone-3">Milestone 3</a></li>
     </ul>
+    <br />
       <li><a href="#project-2">Project 2</a></li>
     <ul>
         <li><a href="#overview">Overview</a></li>
         <li><a href="#milestone-1">Milestone 1</a></li>
-        <li><a href="#milestone-1">Milestone 2</a></li>
-        <li><a href="#milestone-1">Milestone 3</a></li>
+        <li><a href="#milestone-2">Milestone 2</a></li>
+        <li><a href="#milestone-3">Milestone 3</a></li>
     </ul>
+    <li><a href="#contact">Contact</a></li>
     <!--
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
+    
     <li><a href="#acknowledgements">Acknowledgements</a></li>
     -->
   </ol>
