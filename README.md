@@ -15,12 +15,12 @@
 *** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
-[![Contributors][contributors-shield]][contributors-url]
+<!--[![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
+[![MIT License][license-shield]][license-url]-->
+[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/james-mullinix-281787161/)
 
 
 
@@ -56,7 +56,7 @@
     <li>
       <a href="#project-1">Project 1</a>
       <ul>
-        <li><a href="#built-with">Built With</a></li>
+        <li><a href="#project-2">Project 2</a></li>
       </ul>
     </li>
     <li>
@@ -80,26 +80,84 @@
 <!-- ABOUT THE PROJECT -->
 ## Project 1
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+Overview 
 
-There are many great README templates available on GitHub, however, I didn't find one that really suit my needs so I created this enhanced one. I want to create a README template so amazing that it'll be the last one you ever need -- I think this is it.
+You company has recently experienced an increased number of payment defaults, and it is having a larger and larger impact on the company cashflow and there are mounting losses for bad debt. The financial operations group has asked you to use data to help evaluate customer risk, since their usual decision-process is not currently effective.
 
-Here's why:
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
+You have been given access to the internal company data on customers and their payment history. Given the business impact of making better credit-decisions, the CFO has also authorized the acquisition of commercial data resources if that is needed.
 
-Of course, no one template will serve all projects since your needs may be different. So I'll be adding more in the near future. You may also suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have have contributed to expanding this template!
+After doing initial research on possible approaches including standard analytical approaches and machine learning models to solve this problem, you have decided to use machine learning for your solution.
 
-A list of commonly used resources that I find helpful are listed in the acknowledgements.
+Milestone 1
 
-### Built With
+Exploratory Data Analysis findings should include the following:
 
-This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* [Bootstrap](https://getbootstrap.com)
-* [JQuery](https://jquery.com)
-* [Laravel](https://laravel.com)
+  * Statistical metrics (like mean, median etc.) in form of tables/visuals for numerical attributes.
+  * Profiling metrics (like distinct values etc.) in form of tables/visuals for categorical attributes.
+  * Correlation matrix (like Pearson Coefficient matrix) showing various attributes and how they are internally related to each other.
+  * Possible data imputation, if required based on data quality.
+  * Above deliverables will also help in applying data wrangling functions (like indicators/codes) for the next milestone.
 
+Milestone 2
+
+Data Wrangling and Model Output Deliverable should include the following:
+
+  * Data Preparation/Wrangling techniques used to create model input dataset. This could be a 1-2 page document or a slide deck. This will be used in the business friendly presentation (deliverable 3) as well.
+  * The modeling techniques used along with key model output parameters like ROC curve, confusion matrix etc.
+  * Different training and testing data split-up used across various modeling techniques and the corresponding model output parameters like ROC curve, confusion matrix etc.
+  * Selected model technique and reasons for picking the model.
+  *  Model code.
+
+Milestone 3
+
+Business Presentation Deliverable should include the following:
+
+  * Use case description and objective.
+  * Key snapshots from EDA findings with business-friendly terminology.
+  * High level data preparation/wrangling techniques used.
+  * Model output with business-friendly explanation.
+  * Business value in terms of credit risk and decisions, the reduction in losses etc.
+
+
+### Project 2
+
+Overview
+
+A new real estate company will change the model for how houses are sold, by allowing homeowners to sell their house online at a small discount from its estimated value, after which the company will put the house on the market at a higher price than it paid. The success of the business model relies on the ability to accurately predict the selling price for the houses the company will trade. The competitive advantage for your company is the access to unique data that will allow for better predictions compared to traditional real estate agents and brokers.
+
+You have been asked to create a new model for predicting house prices. You have been given access to a proprietary database which contains both public and private data on houses and the sales prices for completed real estate transactions over time.
+
+After doing research, you have decided to use machine learning to create an accurate prediction that can be used to set the price your company is willing to pay for a house.
+
+Milestone 1
+
+Exploratory Data Analysis findings should include the following:
+
+  * Statistical metrics (like mean, median etc.) in form of tables/visuals for numerical attributes.
+  * Profiling metrics (like distinct values etc.) in form of tables/visuals for categorical attributes.
+  * Correlation matrix (like Pearson Coefficient matrix) showing various attributes and how they are internally related to each other.
+  * Possible data imputation, if required based on data quality.
+  * Above deliverables will also help in applying data wrangling functions (like indicators/codes) for the next milestone.
+
+Milestone 2
+
+Data Wrangling and Model Output Deliverable should include the following:
+
+  * Data Preparation/Wrangling techniques used to create model input dataset. This could be a 1-2 page document or a slide deck. This will be used in the business friendly presentation (deliverable 3) as well.
+  * The modeling techniques used along with key model output parameters like ROC curve, confusion matrix etc.
+  * Different training and testing data split-up used across various modeling techniques and the corresponding model output parameters like ROC curve, confusion matrix etc.
+  * Selected model technique and reasons for picking the model.
+  *  Model code.
+
+Milestone 3
+
+Business Presentation Deliverable should include the following:
+
+  * Use case description and objective.
+  * Key snapshots from EDA findings with business-friendly terminology.
+  * High level data preparation/wrangling techniques used.
+  * Model output with business-friendly explanation.
+  * Business value in terms of predicting house prices correctly, minimizing risk, increasing profits etc.
 
 
 <!-- GETTING STARTED -->
