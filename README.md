@@ -53,7 +53,6 @@
 <details open="open">
   <summary>Table of Contents</summary>
   <ol>
-    <li>
       <li><a href="#project-1">Project 1</a></li>
     <ul>
         <li><a href="#overview">Overview</a></li>
@@ -61,16 +60,13 @@
         <li><a href="#milestone-2">Milestone 2</a></li>
         <li><a href="#milestone-3">Milestone 3</a></li>
     </ul>
-    </li>
-    <li>
       <li><a href="#project-2">Project 2</a></li>
-      <ul>
+    <ul>
         <li><a href="#overview">Overview</a></li>
         <li><a href="#milestone-1">Milestone 1</a></li>
         <li><a href="#milestone-1">Milestone 2</a></li>
         <li><a href="#milestone-1">Milestone 3</a></li>
-      </ul>
-    </li>
+    </ul>
     <!--
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
