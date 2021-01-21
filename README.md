@@ -69,6 +69,7 @@
         <li><a href="#milestone-2">Milestone 2</a></li>
         <li><a href="#milestone-3">Milestone 3</a></li>
     </ul>
+    <br />
     <li><a href="#contact">Contact</a></li>
     <!--
     <li><a href="#usage">Usage</a></li>
