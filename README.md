@@ -59,6 +59,7 @@
         <li><a href="#project-2">Project 2</a></li>
       </ul>
     </li>
+   <!--
     <li>
       <a href="#getting-started">Getting Started</a>
       <ul>
@@ -72,6 +73,7 @@
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgements">Acknowledgements</a></li>
+    -->
   </ol>
 </details>
 
@@ -88,7 +90,7 @@ You have been given access to the internal company data on customers and their p
 
 After doing initial research on possible approaches including standard analytical approaches and machine learning models to solve this problem, you have decided to use machine learning for your solution.
 
-Milestone 1
+### Milestone 1
 
 Exploratory Data Analysis findings should include the following:
 
@@ -98,7 +100,7 @@ Exploratory Data Analysis findings should include the following:
   * Possible data imputation, if required based on data quality.
   * Above deliverables will also help in applying data wrangling functions (like indicators/codes) for the next milestone.
 
-Milestone 2
+### Milestone 2
 
 Data Wrangling and Model Output Deliverable should include the following:
 
@@ -108,7 +110,7 @@ Data Wrangling and Model Output Deliverable should include the following:
   * Selected model technique and reasons for picking the model.
   *  Model code.
 
-Milestone 3
+### Milestone 3
 
 Business Presentation Deliverable should include the following:
 
@@ -119,7 +121,7 @@ Business Presentation Deliverable should include the following:
   * Business value in terms of credit risk and decisions, the reduction in losses etc.
 
 
-### Project 2
+## Project 2
 
 Overview
 
@@ -129,7 +131,7 @@ You have been asked to create a new model for predicting house prices. You have 
 
 After doing research, you have decided to use machine learning to create an accurate prediction that can be used to set the price your company is willing to pay for a house.
 
-Milestone 1
+### Milestone 1
 
 Exploratory Data Analysis findings should include the following:
 
@@ -139,7 +141,7 @@ Exploratory Data Analysis findings should include the following:
   * Possible data imputation, if required based on data quality.
   * Above deliverables will also help in applying data wrangling functions (like indicators/codes) for the next milestone.
 
-Milestone 2
+### Milestone 2
 
 Data Wrangling and Model Output Deliverable should include the following:
 
@@ -149,7 +151,7 @@ Data Wrangling and Model Output Deliverable should include the following:
   * Selected model technique and reasons for picking the model.
   *  Model code.
 
-Milestone 3
+### Milestone 3
 
 Business Presentation Deliverable should include the following:
 
@@ -160,7 +162,7 @@ Business Presentation Deliverable should include the following:
   * Business value in terms of predicting house prices correctly, minimizing risk, increasing profits etc.
 
 
-<!-- GETTING STARTED -->
+<!-- GETTING STARTED 
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
@@ -191,8 +193,8 @@ This is an example of how to list things you need to use the software and how to
    ```
 
 
-
-<!-- USAGE EXAMPLES -->
+-->
+<!-- USAGE EXAMPLES 
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
@@ -200,15 +202,15 @@ Use this space to show useful examples of how a project can be used. Additional 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
 
-
-<!-- ROADMAP -->
+-->
+<!-- ROADMAP 
 ## Roadmap
 
 See the [open issues](https://github.com/othneildrew/Best-README-Template/issues) for a list of proposed features (and known issues).
 
 
-
-<!-- CONTRIBUTING -->
+-->
+<!-- CONTRIBUTING 
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to be learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -219,25 +221,25 @@ Contributions are what make the open source community such an amazing place to b
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+-->
 
-
-<!-- LICENSE -->
+<!-- LICENSE 
 ## License
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-
+-->
 
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+James Mullinix - mullij3@rpi.edu
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://github.com/jmullini/rensselaer_ml_data_architecture](https://github.com/jmullini/rensselaer_ml_data_architecture)
 
 
 
-<!-- ACKNOWLEDGEMENTS -->
+<!-- ACKNOWLEDGEMENTS 
 ## Acknowledgements
 * [GitHub Emoji Cheat Sheet](https://www.webpagefx.com/tools/emoji-cheat-sheet)
 * [Img Shields](https://shields.io)
@@ -250,8 +252,7 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 * [Sticky Kit](http://leafo.net/sticky-kit)
 * [JVectorMap](http://jvectormap.com)
 * [Font Awesome](https://fontawesome.com)
-
-
+-->
 
 
 
