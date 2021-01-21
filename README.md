@@ -55,18 +55,23 @@
   <ol>
     <li>
       <a href="#project-1">Project 1</a>
-      <ul>
-        <li><a href="#project-2">Project 2</a></li>
-      </ul>
     </li>
-   <!--
+    <ul>
+        <li><a href="#overview">Overview</a></li>
+        <li><a href="#milestone-1">Milestone 1</a></li>
+        <li><a href="#milestone-2">Milestone 2</a></li>
+        <li><a href="#milestone-3">Milestone 3</a></li>
+      </ul>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <li><a href="#project-2">Project 2</a></li>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#overview">Overview</a></li>
+        <li><a href="#milestone-1">Milestone 1</a></li>
+        <li><a href="#milestone-1">Milestone 2</a></li>
+        <li><a href="#milestone-1">Milestone 3</a></li>
       </ul>
     </li>
+    <!--
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
     <li><a href="#contributing">Contributing</a></li>
@@ -82,7 +87,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Project 1
 
-Overview 
+### Overview 
 
 You company has recently experienced an increased number of payment defaults, and it is having a larger and larger impact on the company cashflow and there are mounting losses for bad debt. The financial operations group has asked you to use data to help evaluate customer risk, since their usual decision-process is not currently effective.
 
@@ -90,7 +95,7 @@ You have been given access to the internal company data on customers and their p
 
 After doing initial research on possible approaches including standard analytical approaches and machine learning models to solve this problem, you have decided to use machine learning for your solution.
 
-### Milestone 1
+#### Milestone 1
 
 Exploratory Data Analysis findings should include the following:
 
@@ -100,7 +105,7 @@ Exploratory Data Analysis findings should include the following:
   * Possible data imputation, if required based on data quality.
   * Above deliverables will also help in applying data wrangling functions (like indicators/codes) for the next milestone.
 
-### Milestone 2
+#### Milestone 2
 
 Data Wrangling and Model Output Deliverable should include the following:
 
@@ -110,7 +115,7 @@ Data Wrangling and Model Output Deliverable should include the following:
   * Selected model technique and reasons for picking the model.
   *  Model code.
 
-### Milestone 3
+#### Milestone 3
 
 Business Presentation Deliverable should include the following:
 
@@ -123,7 +128,7 @@ Business Presentation Deliverable should include the following:
 
 ## Project 2
 
-Overview
+### Overview
 
 A new real estate company will change the model for how houses are sold, by allowing homeowners to sell their house online at a small discount from its estimated value, after which the company will put the house on the market at a higher price than it paid. The success of the business model relies on the ability to accurately predict the selling price for the houses the company will trade. The competitive advantage for your company is the access to unique data that will allow for better predictions compared to traditional real estate agents and brokers.
 
@@ -131,7 +136,7 @@ You have been asked to create a new model for predicting house prices. You have 
 
 After doing research, you have decided to use machine learning to create an accurate prediction that can be used to set the price your company is willing to pay for a house.
 
-### Milestone 1
+#### Milestone 1
 
 Exploratory Data Analysis findings should include the following:
 
@@ -141,7 +146,7 @@ Exploratory Data Analysis findings should include the following:
   * Possible data imputation, if required based on data quality.
   * Above deliverables will also help in applying data wrangling functions (like indicators/codes) for the next milestone.
 
-### Milestone 2
+#### Milestone 2
 
 Data Wrangling and Model Output Deliverable should include the following:
 
@@ -151,7 +156,7 @@ Data Wrangling and Model Output Deliverable should include the following:
   * Selected model technique and reasons for picking the model.
   *  Model code.
 
-### Milestone 3
+#### Milestone 3
 
 Business Presentation Deliverable should include the following:
 
