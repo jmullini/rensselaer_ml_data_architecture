@@ -1,4 +1,4 @@
-,age,monthly_revenue,Debt_Ratio,rated_exposure,serious_delinquencies_in_past_2_years,composite_overdue
+,age,monthly_revenue,debt_ratio,rated_exposure,serious_delinquencies_in_past_2_years,composite_overdue
 0,64,8158.0,0.249908,0.0,0,0
 1,58,5166.0,3870.0,0.0,0,0
 2,41,6666.0,0.456127,0.0,0,0
