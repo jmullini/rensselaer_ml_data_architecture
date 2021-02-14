@@ -15,6 +15,7 @@ build/
 develop-eggs/
 dist/
 downloads/
+models/RandomForest.sav
 eggs/
 .eggs/
 lib/
